@@ -142,3 +142,4 @@ Hotkey:
 :mask: :bowtie: ⌘
 
 632115001 Gunn chochuwong
+632115014 Yanawarut Kanwana
