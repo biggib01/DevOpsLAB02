@@ -140,4 +140,6 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
 :mask: :bowtie: ⌘
-632115001 Gunn Chochuwong
+
+632115001 Gunn chochuwong
+632115039 Worawut Aunkham
